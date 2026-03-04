@@ -179,5 +179,7 @@ for(let i = 0; i<personagens.length; i++){
         }else{
             console.log('Empate!')
         }
+        console.log('-------------------------------------')
     }
 }
+
